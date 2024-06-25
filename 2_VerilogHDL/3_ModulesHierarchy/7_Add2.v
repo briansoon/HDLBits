@@ -20,7 +20,7 @@ module top_module (
 endmodule
 
 module add1 ( input a, input b, input cin,   output sum, output cout );
-// Full adder module here
-assign {cout,sum} = {( a&b | a&cin | b&cin),(a^b^cin)};
+    // Full adder module here
+    assign {cout,sum} = {( a&b | a&cin | b&cin),(a^b^cin)};
 
 endmodule
