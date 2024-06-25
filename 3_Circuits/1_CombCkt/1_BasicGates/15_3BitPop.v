@@ -1,4 +1,4 @@
-// Exercise 3-1-15: 3-Bit Population Count
+// Exercise 3-1-1-15: 3-Bit Population Count
 module PopCount (
     input [2:0] in,
     output [1:0] out

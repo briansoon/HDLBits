@@ -1,4 +1,4 @@
-// Exercise 3-1-14: Thermostat
+// Exercise 3-1-1-14: Thermostat
 module Thermostat (
     input too_cold,
     input too_hot,

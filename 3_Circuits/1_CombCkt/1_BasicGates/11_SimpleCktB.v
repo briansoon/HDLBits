@@ -1,4 +1,4 @@
-// Exercise 3-1-11: Simple Circuit B
+// Exercise 3-1-1-11: Simple Circuit B
 module CktB (
     input x,
     input y,

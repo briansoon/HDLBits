@@ -1,4 +1,4 @@
-// Exercise 3-1-5: Two Gates
+// Exercise 3-1-1-5: Two Gates
 module TwoGates (
     input in1,
     input in2,

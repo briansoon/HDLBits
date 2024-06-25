@@ -1,4 +1,4 @@
-// Exercise 3-1-4: Another Gate
+// Exercise 3-1-1-4: Another Gate
 module AnotherGate(
     input in1,
     input in2,

@@ -1,4 +1,4 @@
-// Exercise 3-1-13: Ring or Vibrate?
+// Exercise 3-1-1-13: Ring or Vibrate?
 module RingOrVib (
     input ring,
     input vibrate_mode,

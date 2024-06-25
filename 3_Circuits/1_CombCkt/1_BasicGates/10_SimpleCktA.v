@@ -1,4 +1,4 @@
-// Exercise 3-1-10: Simple Circuit A
+// Exercise 3-1-1-10: Simple Circuit A
 module CktA (
     input x,
     input y,

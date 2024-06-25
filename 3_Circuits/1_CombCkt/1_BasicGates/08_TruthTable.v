@@ -1,4 +1,4 @@
-// Exercise 3-1-8: Truth Table
+// Exercise 3-1-1-8: Truth Table
 module TruthTable (
     input x3,
     input x2,

@@ -1,4 +1,4 @@
-// Exercise 3-1-12: Combine Circuits A and B
+// Exercise 3-1-1-12: Combine Circuits A and B
 module AnB (
     input x,
     input y,

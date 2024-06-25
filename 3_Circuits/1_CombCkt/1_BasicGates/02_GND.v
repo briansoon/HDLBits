@@ -1,4 +1,4 @@
-// Exercise 3-1-2: GND
+// Exercise 3-1-1-2: GND
 module GND (
     output out
 );

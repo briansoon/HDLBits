@@ -1,4 +1,4 @@
-// Exercise 3-1-17: Even Longer Vectors
+// Exercise 3-1-1-17: Even Longer Vectors
 module EvenLongVec( 
     input [99:0] in,
     output [98:0] out_both,

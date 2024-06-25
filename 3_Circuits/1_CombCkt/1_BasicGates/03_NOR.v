@@ -1,4 +1,4 @@
-// Exercise 3-1-3: NOR
+// Exercise 3-1-1-3: NOR
 module NOR (
     input in1,
     input in2,

@@ -1,4 +1,4 @@
-// Exercise 3-1-7: 7420 Chip
+// Exercise 3-1-1-7: 7420 Chip
 module Chip7420 (
     input p1a, p1b, p1c, p1d,
     output p1y,

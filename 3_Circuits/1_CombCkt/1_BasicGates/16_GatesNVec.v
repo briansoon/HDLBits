@@ -1,4 +1,4 @@
-// Exercise 3-1-16: Gates and Vectors
+// Exercise 3-1-1-16: Gates and Vectors
 module GatesNVec (
     input [3:0] in,
     output [2:0] out_both,

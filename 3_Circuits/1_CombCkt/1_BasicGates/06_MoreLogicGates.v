@@ -1,4 +1,4 @@
-// Exercise 3-1-6: More Logic Gates
+// Exercise 3-1-1-6: More Logic Gates
 module MoreLogic (
     input a, b,
     output out_and,
