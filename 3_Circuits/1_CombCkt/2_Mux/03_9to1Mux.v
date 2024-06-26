@@ -1,5 +1,5 @@
 // Exercise 3-1-2-3: 9-to-1 Mux
-module 9to1Mux (
+module Mux_9to1 (
     input [15:0] a, b, c, d, e, f, g, h, i,
     input [3:0] sel,
     output [15:0] out

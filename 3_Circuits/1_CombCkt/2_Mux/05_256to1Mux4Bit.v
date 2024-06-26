@@ -1,5 +1,5 @@
 // Exercise 3-1-2-5: 256-to-1 4-Bit Mux
-module 256to1_4BitMux (
+module Mux_256to1_4Bit (
     input [1023:0] in,
     input [7:0] sel,
     output [3:0] out

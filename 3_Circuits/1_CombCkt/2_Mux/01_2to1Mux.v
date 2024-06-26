@@ -1,5 +1,5 @@
 // Exercise 3-1-2-1: 2-to-1 Mux
-module 2to1Mux( 
+module Mux_2to1( 
     input a, b, sel,
     output out 
 ); 
